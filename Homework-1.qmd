@@ -21,3 +21,5 @@ I created a temporary github account to pull this off in an example.  If you wan
 You can find the github repository here:
 
 [The Repository](https://github.com/RW-Squared)
+
+I am going to now test out the link to my Github.  I have followed the steps in the thread to get a local copy of my fork.  Now I am adding this to the `Homework-1.qmd` file.  Then I will render it to make sure the repository is changed.
